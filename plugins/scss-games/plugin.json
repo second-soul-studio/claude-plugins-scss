@@ -1,0 +1,9 @@
+{
+  "name": "scss-games",
+  "version": "1.0.0",
+  "description": "Interactive games and skill experiences for the SCSS (Second Circuit / Second Soul) Discord community.",
+  "author": "SCSS Community",
+  "skills": [
+    "skills/idea-forge.md"
+  ]
+}
